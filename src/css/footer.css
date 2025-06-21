@@ -1,0 +1,14 @@
+.footer {
+  background-color: #000;
+  padding: 5rem 0 3rem 0;
+  text-align: center;
+  font-size: 14px;
+  color: #6c757d;
+}
+
+@media screen and (max-width: 916px) {
+  /* container box */
+  .footer {
+   text-align: center;
+  }
+}
